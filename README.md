@@ -24,3 +24,9 @@ The platform aims to reduce response time during blood emergencies through secur
 - Update Availability Status
 - Blood Group Management
 - Donor Profile
+
+### 🏥 Hospital & Blood Bank
+- Facility Registration
+- Blood Stock Management
+- Blood Unit Tracking
+- Inventory Updates
