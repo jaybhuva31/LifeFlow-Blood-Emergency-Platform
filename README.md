@@ -161,3 +161,20 @@ http://127.0.0.1:8000/
 ```
 
 ---
+# Frontend Setup
+
+```bash
+cd frontend
+
+npm install
+
+npm run dev
+```
+
+Frontend runs at
+
+```
+http://localhost:5173/
+```
+
+---
