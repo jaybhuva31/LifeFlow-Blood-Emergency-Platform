@@ -88,3 +88,28 @@ The platform aims to reduce response time during blood emergencies through secur
 *(MySQL configuration is also available for deployment.)*
 
 ---
+
+# 📁 Project Structure
+
+```
+LifeFlow-Blood-Emergency-Platform/
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── backend/
+│   ├── accounts/
+│   ├── donor/
+│   ├── receiver/
+│   ├── requests/
+│   ├── notification/
+│   ├── camp/
+│   ├── reports/
+│   ├── voice_ai/
+│   ├── backend/
+│   └── manage.py
+│
+└── README.md
+```
