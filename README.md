@@ -1,1 +1,0 @@
-# LifeFlow-Blood-Emergency-Platform
