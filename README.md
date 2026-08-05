@@ -178,3 +178,24 @@ http://localhost:5173/
 ```
 
 ---
+
+# API Authentication
+
+This project uses
+
+- JWT Authentication
+- Django REST Framework
+
+Authentication Flow
+
+```
+Register
+      ↓
+Login
+      ↓
+JWT Access Token
+      ↓
+Protected APIs
+```
+
+---
