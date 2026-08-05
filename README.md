@@ -18,3 +18,9 @@ The platform aims to reduce response time during blood emergencies through secur
 - User Registration & Login
 - Role-Based Access Control
 - Profile Management
+
+### 🩸 Donor Module
+- Register as Blood Donor
+- Update Availability Status
+- Blood Group Management
+- Donor Profile
