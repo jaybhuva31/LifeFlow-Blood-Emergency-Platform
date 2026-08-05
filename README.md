@@ -11,3 +11,10 @@ LifeFlow is a modern web platform designed to simplify and accelerate the blood 
 The platform aims to reduce response time during blood emergencies through secure authentication, real-time donor management, and location-based services.
 
 ---
+## 🚀 Features
+
+### 👤 Authentication
+- Secure JWT Authentication
+- User Registration & Login
+- Role-Based Access Control
+- Profile Management
