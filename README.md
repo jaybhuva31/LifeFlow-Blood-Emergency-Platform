@@ -61,3 +61,15 @@ The platform aims to reduce response time during blood emergencies through secur
 - Emergency Support Features
 
 ---
+
+# 🛠 Tech Stack
+
+## Frontend
+- React.js
+- Vite
+- Bootstrap 5
+- React Router DOM
+- Axios
+- Chart.js
+- Leaflet
+- React Icons
