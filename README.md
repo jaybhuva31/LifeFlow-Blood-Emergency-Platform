@@ -40,3 +40,13 @@ The platform aims to reduce response time during blood emergencies through secur
 - Location-Based Donor Search
 - Fast Emergency Response
 - Availability Filtering
+
+### 🔔 Notifications
+- Emergency Alerts
+- Request Updates
+- Status Notifications
+
+### 🏕 Donation Camps
+- Create Donation Camps
+- Camp Registration
+- Camp Management
