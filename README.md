@@ -199,3 +199,18 @@ Protected APIs
 ```
 
 ---
+# Database
+
+Default
+
+```
+SQLite
+```
+
+Supported
+
+```
+MySQL
+```
+
+---
