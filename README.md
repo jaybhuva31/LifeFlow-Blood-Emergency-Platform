@@ -240,3 +240,18 @@ GitHub: https://github.com/jaybhuva31
 LinkedIn: https://www.linkedin.com/in/jaybhuva31/
 
 ---
+# License
+
+This project is developed for educational and academic purposes.
+
+---
+
+## ⭐ Support
+
+If you found this project helpful,
+
+⭐ Star this repository
+
+🍴 Fork it
+
+🩸 Help improve LifeFlow
