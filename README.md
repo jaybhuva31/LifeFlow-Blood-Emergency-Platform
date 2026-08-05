@@ -50,3 +50,14 @@ The platform aims to reduce response time during blood emergencies through secur
 - Create Donation Camps
 - Camp Registration
 - Camp Management
+
+### 📊 Reports
+- Blood Donation Reports
+- Request Analytics
+- System Statistics
+
+### 🤖 Voice AI
+- Voice Assistance Module
+- Emergency Support Features
+
+---
