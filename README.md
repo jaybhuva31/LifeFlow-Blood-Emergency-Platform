@@ -113,3 +113,17 @@ LifeFlow-Blood-Emergency-Platform/
 │
 └── README.md
 ```
+
+---
+
+# ⚙ Installation
+
+## Clone Repository
+
+```bash
+git clone https://github.com/jaybhuva31/LifeFlow-Blood-Emergency-Platform.git
+
+cd LifeFlow-Blood-Emergency-Platform
+```
+
+---
