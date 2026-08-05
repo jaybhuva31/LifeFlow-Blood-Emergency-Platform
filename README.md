@@ -227,3 +227,16 @@ MySQL
 - Live Emergency Tracking
 
 ---
+# Author
+
+**Jay Bhuva**
+
+Computer Engineering Student
+
+LJ Institute of Engineering & Technology
+
+GitHub: https://github.com/jaybhuva31
+
+LinkedIn: https://www.linkedin.com/in/jaybhuva31/
+
+---
