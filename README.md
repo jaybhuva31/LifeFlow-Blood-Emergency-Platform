@@ -127,3 +127,24 @@ cd LifeFlow-Blood-Emergency-Platform
 ```
 
 ---
+# Backend Setup
+
+```bash
+cd backend
+
+python -m venv venv
+
+# Windows
+venv\Scripts\activate
+
+# Linux/Mac
+source venv/bin/activate
+
+pip install -r requirements.txt
+```
+
+Apply migrations
+
+```bash
+python manage.py migrate
+```
