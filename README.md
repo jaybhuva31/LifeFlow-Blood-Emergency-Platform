@@ -214,3 +214,16 @@ MySQL
 ```
 
 ---
+
+# Future Enhancements
+
+- SMS Notifications
+- Email Notifications
+- Real-time Chat
+- AI Blood Availability Prediction
+- Google Maps Integration
+- QR-Based Blood Donation
+- Mobile Application
+- Live Emergency Tracking
+
+---
