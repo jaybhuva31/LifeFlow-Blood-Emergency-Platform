@@ -148,3 +148,16 @@ Apply migrations
 ```bash
 python manage.py migrate
 ```
+Run server
+
+```bash
+python manage.py runserver
+```
+
+Backend runs at
+
+```
+http://127.0.0.1:8000/
+```
+
+---
