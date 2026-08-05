@@ -30,3 +30,13 @@ The platform aims to reduce response time during blood emergencies through secur
 - Blood Stock Management
 - Blood Unit Tracking
 - Inventory Updates
+
+### 🚨 Emergency Blood Requests
+- Create Blood Request
+- Request Status Tracking
+- Request History
+
+### 📍 Nearby Donor Search
+- Location-Based Donor Search
+- Fast Emergency Response
+- Availability Filtering
