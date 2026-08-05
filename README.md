@@ -81,3 +81,10 @@ The platform aims to reduce response time during blood emergencies through secur
 - Django REST Framework
 - JWT Authentication
 - CORS Headers
+
+
+## Database
+- SQLite
+*(MySQL configuration is also available for deployment.)*
+
+---
