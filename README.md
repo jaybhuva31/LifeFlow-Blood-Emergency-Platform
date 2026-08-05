@@ -73,3 +73,11 @@ The platform aims to reduce response time during blood emergencies through secur
 - Chart.js
 - Leaflet
 - React Icons
+
+
+## Backend
+- Python
+- Django
+- Django REST Framework
+- JWT Authentication
+- CORS Headers
