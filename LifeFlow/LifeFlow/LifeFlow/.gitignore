@@ -1,0 +1,27 @@
+# Python & Django
+*.pyc
+*__pycache__*
+.venv/
+venv/
+ENV/
+*.sqlite3
+*.log
+
+# Environment variables
+.env
+
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
